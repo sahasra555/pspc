@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sahasrarao/Desktop/pspc/Week5/sum_of_1_to_n'
+relocations:     []
+...
