@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sahasrarao/Desktop/pspc/Week6/reverse_array_elements'
+relocations:     []
+...
